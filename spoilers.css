@@ -1,0 +1,9 @@
+body{
+  background-color: Orange;
+}
+.spoil-protect{
+    background-color: blue;
+}
+.spoil-protect:hover{
+  background-color: red;
+}
